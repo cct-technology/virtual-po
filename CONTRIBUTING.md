@@ -15,7 +15,7 @@ Thank you for your interest in contributing to VPO! This guide will help you get
 
 ```bash
 # Clone the repository
-git clone https://github.com/rkvalvaa/virtual-po.git
+git clone https://github.com/cct-technology/virtual-po.git
 cd virtual-po
 
 # Install dependencies
@@ -115,6 +115,6 @@ migrations/           # PostgreSQL migration files
 
 ## Need Help?
 
-- Open a [GitHub Discussion](https://github.com/rkvalvaa/virtual-po/discussions) for questions
-- Check existing [issues](https://github.com/rkvalvaa/virtual-po/issues) before filing new ones
+- Open a [GitHub Discussion](https://github.com/cct-technology/virtual-po/discussions) for questions
+- Check existing [issues](https://github.com/cct-technology/virtual-po/issues) before filing new ones
 - Review the [README](./README.md) for architecture overview

@@ -1,7 +1,7 @@
 # VPO Implementation Plan
 
 **Multi-session development plan for Virtual Product Owner**
-**GitHub:** https://github.com/rkvalvaa/virtual-po
+**GitHub:** https://github.com/cct-technology/virtual-po
 **Linear:** VPO project with issues organized by phase
 **Last updated:** February 2026
 
