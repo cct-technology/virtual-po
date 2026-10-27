@@ -78,7 +78,7 @@ Requests flow through a structured pipeline: `DRAFT` â†’ `INTAKE_IN_PROGRESS` â†
 
 ```bash
 # Clone the repository
-git clone https://github.com/rkvalvaa/virtual-po.git
+git clone https://github.com/cct-technology/virtual-po.git
 cd virtual-po
 
 # Install dependencies
@@ -215,7 +215,7 @@ With the token unset, uploads fail with "File storage is not configured" and dow
 
 ```bash
 # Clone and install
-git clone https://github.com/rkvalvaa/virtual-po.git
+git clone https://github.com/cct-technology/virtual-po.git
 cd virtual-po && npm ci
 
 # Configure environment
